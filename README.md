@@ -1,7 +1,7 @@
 ![Risk Image](images/risk.jpg)
 # Risk Return Analysis
 
->"Risk return analysis is typically done using sharpe ratios and betas. Using these metrics we can determine what may make a good addition to a portfolio"
+>"Risk return analysis is typically done using sharpe ratios and betas. Using these metrics we can determine what may make a good addition to a portfolio."
 
 ---
 ## Directory
